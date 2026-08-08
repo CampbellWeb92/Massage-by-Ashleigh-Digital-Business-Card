@@ -13,3 +13,9 @@ HOW TO USE
 2. Keep the file/folder structure exactly as supplied.
 3. Open index.html in a browser.
 4. The QR code and Save Contact button both contain Ashleigh's contact details.
+
+UPDATED DESIGN
+- Removed black circle around logo
+- Updated location to Melrose Arch, Johannesburg
+- Added subtle background glitter sparkles
+- Added subtle gold glow around logo
